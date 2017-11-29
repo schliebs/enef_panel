@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350 64-bit) (preloaded format=xelatex 2017.11.7)  29 NOV 2017 17:25
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350 64-bit) (preloaded format=xelatex 2017.11.7)  29 NOV 2017 17:30
 entering extended mode
 **./17-11-29_panel_presentation.tex
 (17-11-29_panel_presentation.tex
@@ -1670,12 +1670,12 @@ Overfull \vbox (15.63992pt too high) detected at line 50
 ] [23
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 124.
+LaTeX Font Info:    Try loading font information for U+msa on input line 128.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 124.
+LaTeX Font Info:    Try loading font information for U+msb on input line 128.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1702,7 +1702,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ! Undefined control sequence.
 \beamer@doifinframe ->\subfigure 
                                  {\includegraphics [width=0.4\textwidth ]{re...
-l.150 \end{figure}5\end{frame}
+l.154 \end{figure}5\end{frame}
                               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1717,7 +1717,7 @@ File: ../../results/images/weddingcake_jpg.jpg Graphic file (type QTm)
 ! Undefined control sequence.
 \beamer@doifinframe ->\subfigure 
                                  {\includegraphics [width=0.4\textwidth ]{re...
-l.150 \end{figure}5\end{frame}
+l.154 \end{figure}5\end{frame}
                               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1730,7 +1730,7 @@ File: ../../results/images/weddingcake_jpg.jpg Graphic file (type QTm)
 ! Undefined control sequence.
 \beamer@doifinframe -> \subfigure 
                                   {\includegraphics [width=0.4\textwidth ]{r...
-l.150 \end{figure}5\end{frame}
+l.154 \end{figure}5\end{frame}
                               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1751,18 +1751,18 @@ File: ../../results/images/coincidence_jpg.jpg Graphic file (type QTm)
 \tf@snm=\write8
 \openout8 = `17-11-29_panel_presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 153.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 153.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 157.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 157.
 
 (17-11-29_panel_presentation.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 153.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 153.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 157.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 157.
  ) 
 Here is how much of TeX's memory you used:
- 44977 strings out of 427834
- 1023151 string characters out of 3152470
+ 44986 strings out of 427834
+ 1023406 string characters out of 3152470
  1240032 words of memory out of 3000000
- 48249 multiletter control sequences out of 15000+200000
+ 48258 multiletter control sequences out of 15000+200000
  533516 words of font info for 69 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  72i,13n,98p,10461b,603s stack positions out of 5000i,500n,10000p,200000b,50000s
